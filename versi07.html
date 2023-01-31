@@ -1,0 +1,211 @@
+<!DOCTYPE html>  
+ <html>  
+      <!DOCTYPE html>  
+ <html>  
+      <head>  
+           <title>Kamus Data Kodefikasi Surat</title>
+           <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+           <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/r/bs-3.3.5/jq-2.1.4,dt-1.10.8/datatables.min.css"/>  
+           <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>  
+           <script type="text/javascript" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script> 
+           <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>  
+           <script type="text/javascript" src="https://cdn.datatables.net/r/bs-3.3.5/jqc-1.11.3,dt-1.10.8/datatables.min.js"></script> 
+           <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.6.4/js/dataTables.buttons.min.js"></script>  
+           <script type="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>  
+           <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>  
+           <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>  
+           <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.6.4/js/buttons.html5.min.js"></script>  
+           <link rel="stylesheet" type="text/css" href="style.css" />
+      </head>  
+      <body>  
+           <div class="container"> 
+            <img src="karetban.png" class="img-responsive" alt="Responsive image">
+            <hr>
+            <a class="btn btn-danger" href="index.html" role="button">Klasifikasi</a>
+            <a class="btn btn-danger" href="versi02.html" role="button">Retensi Keuangan</a>
+            <a class="btn btn-primary" href="versi05.html" role="button">Retensi Kepegawaian</a>
+            <a class="btn btn-danger" href="versi04.html" role="button">SKKAD</a>
+            <hr/>
+            
+                <div class="panel panel-default">
+               <!-- Default panel contents -->
+               <div class="panel-heading" data-toggle="collapse" data-target="#demo">Kodefikasi Unit Kerja dan Koordinator Substansi</div>
+
+               <!-- Table -->
+               <div id="demo" class="collapse">
+               <table class="table">
+                 <thead>
+                  <tr>
+                   <th>Unit Kerja</th>
+                   <th>Unit Pengolah</th>
+                   <th>Sub Unit</th>
+                  </tr>
+                </thead>
+                <tbody>
+                 <tr>
+                  <td>Loka Pengawas Obat dan Makanan di Kabupaten Tulang Bawang</td>
+                  <td>12B</td>
+                  <td>-</td>
+                 </tr>
+                 <tr>
+                  <td>Kelompok Substansi Pengujian</td>
+                  <td>-</td>
+                  <td>12B1</td>
+                 </tr>
+                 <tr>
+                  <td>Kelompok Substansi Pemeriksaan</td>
+                  <td>-</td>
+                  <td>12B2</td>
+                 </tr>
+                 <tr>
+                  <td>Kelompok Substansi Penindakan</td>
+                  <td>-</td>
+                  <td>12B3</td>
+                 </tr>
+                 <tr>
+                  <td>Kelompok Substansi Informasi dan Komunikasi</td>
+                  <td>-</td>
+                  <td>12B4</td>
+                 </tr>
+                 <tr>
+                  <td>Kelompok Substansi Tata Usaha</td>
+                  <td>-</td>
+                  <td>12B5</td>
+                 </tr>
+                </tbody>
+               </table>
+            </div>
+             </div>
+            <div class="table-responsive">
+                <table id="data-table" class="table table-bordered">  
+                     <thead>  
+                          <tr> 
+                               <th></th>
+                               <th style="text-align: center;">No Urut </th>  
+                               <th style="text-align: center;">Tahun Arsip</th> 
+                               <th style="text-align: center;">Uraian</th> 
+                         
+                          </tr>  
+                     </thead> 
+                     <tfoot>  
+                          <tr>
+                               <th></th>
+                               <th style="text-align: center;">No Urut </th>  
+                               <th style="text-align: center;">Tahun Arsip</th> 
+                               <th style="text-align: center;">Uraian</th> 
+                          </tr> 
+                     </tfoot>  
+                </table>
+            </div>
+           </div> 
+
+          <!-- Footer -->
+          <footer class="page-footer font-small blue">
+
+            <!-- Copyright -->
+            <div class="footer-copyright text-center py-3">© 2020-2021 Copyright:
+              <a href="https://pom.go.id"> Loka POM di Kabupaten Tulang Bawang</a>
+            </div>
+            <!-- Copyright -->
+
+          </footer>
+          <!-- Footer -->
+           <!-- script -->
+           <script>  
+           
+          /* Formatting function for row details - modify as you need */
+function format ( d ) {
+    // `d` is the original data object for the row
+    return '<table class="table" cellpadding="0" cellspacing="0" border="0" style="padding-left:50px;">'+
+        '<tr>'+
+            '<td>Tanggal Arsip</td>'+
+            '<td>'+d.tanggal+'</td>'+
+        '</tr>'+
+        '<tr>'+
+            '<td>Kode Klasifikasi</td>'+
+            '<td>'+d.kodeklasifikasi+'</td>'+
+        '</tr>'+
+        '<tr>'+
+            '<td>Pencipta</td>'+
+            '<td>'+d.pencipta+'</td>'+
+        '</tr>'+
+        '<tr>'+
+            '<td>Series Arsip</td>'+
+            '<td>'+d.seriesarsip+'</td>'+
+        '</tr>'+
+        '<tr>'+
+            '<td>No Rak</td>'+
+            '<td>'+d.norak+'</td>'+
+        '</tr>'+
+        '<tr>'+
+            '<td>Lokasi Simpan</td>'+
+            '<td>'+d.lokassimpan+'</td>'+
+        '</tr>'+
+        '<tr>'+
+            '<td>Jumlah</td>'+
+            '<td>'+d.jumlah+'</td>'+
+        '</tr>'+
+        '<tr>'+
+            '<td>No Boks</td>'+
+            '<td>'+d.nobox+'</td>'+
+        '</tr>'+
+        '<tr>'+
+            '<td>Retensi Aktif</td>'+
+            '<td>'+d.retensiaktif+'</td>'+
+        '</tr>'+
+        '<tr>'+
+            '<td>Retensi Inaktif</td>'+
+            '<td>'+d.retensiinaktif+'</td>'+
+        '</tr>'+
+    '</table>';
+}
+ 
+$(document).ready(function() {
+    
+    var table = $('#data-table').DataTable( {
+        "ajax": "regarsip.json",
+        dom: 'Bfrtip',
+          buttons: [
+              'copyHtml5',
+              'excelHtml5',
+              'csvHtml5',
+              'pdfHtml5'
+          ],
+       "language": {
+            "url": "indonesia.json"
+        },
+        "columns": [
+            {
+                "className":      'details-control',
+                "orderable":      false,
+                "data":           null,
+                "defaultContent": ''
+            },
+            { "data": "nourut" },
+            { "data": "tahunarsip" },
+            { "data": "uraian" },
+           
+        ],
+        "order": [[1, 'asc']]
+    } );
+     
+    // Add event listener for opening and closing details
+    $('#data-table tbody').on('click', 'td.details-control', function () {
+        var tr = $(this).closest('tr');
+        var row = table.row( tr );
+ 
+        if ( row.child.isShown() ) {
+            // This row is already open - close it
+            row.child.hide();
+            tr.removeClass('shown');
+        }
+        else {
+            // Open this row
+            row.child( format(row.data()) ).show();
+            tr.addClass('shown');
+        }
+    } );
+} );
+          </script>   
+      </body>  
+ </html>  

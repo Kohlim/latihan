@@ -1,0 +1,2125 @@
+﻿{
+    "data": [
+        {
+            "Kode": "A",
+            "Uraian": "RENCANA ANGGARAN PENDAPATAN DAN BELANJA DAERAH  (RAPBD) DAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH PERUBAHAN (APBD-P)",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.1",
+            "Uraian": "Penyusunan Prioritas Plafon Anggaran (PPA)",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.1.a",
+            "Uraian": "Kebijakan Umum, Strategi, Prioritas dan Renstra",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.1.a.1",
+            "Uraian": "Dokumen Rencana Kerja Pemerintah Daerah (RKPD)",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.1.a.2",
+            "Uraian": "Dokumen Rencana Kerja Satuan Kerja Pemerintah Daerah (Renja)",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.1.b",
+            "Uraian": "Dokumen Rancangan Kebijakan Umum Anggaran (KUA) yang telah dibahas bersama antara DPRD dan Pemda",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.1.c",
+            "Uraian": "KUA beserta Nota Kesepakatannya",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.1.d",
+            "Uraian": "Dokumen Rancangan Prioritas Plafon Anggaran Sementara (PPAS)",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.1.e",
+            "Uraian": "Nota Kesepakatan PPA",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.1.f",
+            "Uraian": "Prioritas Plafon Anggaran",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.2",
+            "Uraian": "Penyusunan Rencana Kerja Anggaran Satuan Kerja Perangkat Daerah (RKA- SKPD)",
+            "Aktif": "1 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "2 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.2.a",
+            "Uraian": "Dokumen Pedoman Penyusunan RKA-SKPD yang telah disetujui Sekretaris Daerah",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.2.b",
+            "Uraian": "Dokumen RKA-SKPD",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.3",
+            "Uraian": "Penyampaian Rancangan Anggaran Pendapatan dan Belanja Daerah kepada Dewan Perwakilan Rakyat Daerah (DPRD)",
+            "Aktif": "1 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "2 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.3.a",
+            "Uraian": "Pengantar Nota Keuangan Pemerintah dan Rancangan Peraturan Daerah RAPBD",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.3.a.1",
+            "Uraian": "Materi RAPBD",
+            "Aktif": "3 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "4 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.3.a.2",
+            "Uraian": "Nota Keuangan Pemerintah",
+            "Aktif": "4 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.3.b",
+            "Uraian": "Hasil Pembahasan Rencana Anggaran Pendapatan dan Belanja Daerah (RAPBD) oleh Dewan Perwakilan Rakyat Daerah (DPRD) dan Pemerintah Daerah",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.3.c",
+            "Uraian": "Dokumen Persetujuan bersama antara DPRD dan Kepala Daerah tentang Raperda APBD",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.3.d",
+            "Uraian": "Dokumen Rancangan Penjabaran APBD beserta Lampirannya",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.3.e",
+            "Uraian": "Penyampaian Permohonan Evaluasi kepada Gubernur tentang RAPBD beserta penjabarannya",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.3.f",
+            "Uraian": "Hasil Evaluasi  gubernur tentang RAPBD",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.3.g",
+            "Uraian": "Penetapan Perda APBD oleh Gubernur beserta Penjabarannya",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.3.h",
+            "Uraian": "Peraturan Daerah (PERDA) tentang APBD",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.4",
+            "Uraian": "Anggaran Pendapatan dan Belanja Daerah Perubahan (RAPBD-P)",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.4.a",
+            "Uraian": "Penyusunan Prioritas Plafon Anggaran Perubahan",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.4.a.1",
+            "Uraian": "Kebijakan Umum, Renstra, strategi prioritasdan renstra  perubahan",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.4.a.2",
+            "Uraian": "Dokumen Rancangan Kebijakan Umum Anggaran (KUA) Perubahan yang telah dibahas bersama antara DPRD dan Pemerintah Daerah",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.4.a.3",
+            "Uraian": "KUA Perubahan beserta Nota Kesepakatannya",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.4.a.4",
+            "Uraian": "Dokumen Rancangan Prioritas Plafon Anggaran Sementara (PPAS) Perubahan",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.4.a.5",
+            "Uraian": "Nota Kesepakatan PPAS Perubahan",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.4.a.6",
+            "Uraian": "Prioritas Plafon Anggaran Sementara (PPAS) Perubahan",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.4.b",
+            "Uraian": "Penyusunan Rencana Kerja Anggaran Satuan Kerja Perangkat Daerah (RKA-PD) Perubahan",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "A.4.b.1",
+            "Uraian": "Dokumen Pedoman Penyusunan RKA-SKPD Perubahan yang telah disetujui Sekretaris Daerah",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "A.4.b.2",
+            "Uraian": "Dokumen RKA-SKPD Perubahan",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "A.4.c",
+            "Uraian": "Penyampaian Rancangan Anggaran Pendapatan dan Belanja Daerah Perubahan kepada Dewan Perwakilan Rakyat Daerah (DPRD)",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.4.c.1",
+            "Uraian": "Pengantar Nota Keuangan Pemerintah dan Rancangan Peraturan DaerahRAPBD Perubahan:",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.4.c.1.a",
+            "Uraian": "Materi RAPBD",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.4.c.1.b",
+            "Uraian": "Nota Keuangan Pemerintah",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.4.c.2",
+            "Uraian": "Hasil Pembahasan Rencana Anggaran Pendapatan dan Belanja Daerah (RAPBD) Perubahan oleh Dewan Perwakilan Rakyat Daerah (DPRD) dan Pemerintah Daerah",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "A.4.c.3",
+            "Uraian": "Dokumen Persetujuan bersama antara DPRD dan Kepala Daerah tentang Raperda APBD Perubahan",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.4.c.4",
+            "Uraian": "Dokumen Rancangan Penjabaran APBD Perubahan beserta lampirannya",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.4.c.5",
+            "Uraian": "Penyampaian Permohonan Evaluasi kepada Gubernur tentang RAPBD Perubahan beserta penjabarannya",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.4.c.6",
+            "Uraian": "Hasil Evaluasi  Gubernur tentang RAPBD Perubahan",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.4.c.7",
+            "Uraian": "Penetapan Perda APBD Perubahan oleh Gubernur beserta Penjabarannya",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "A.4.c.8",
+            "Uraian": "Peraturan Daerah (PERDA) tentang APBD Perubahan",
+            "Aktif": "2 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "B",
+            "Uraian": "PENYUSUNAN ANGGARAN",
+            "Aktif": "1 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "B.1",
+            "Uraian": "Musyawarah Rencana Pembangunan (Musrenbang) Kecamatan",
+            "Aktif": "1 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "B.2",
+            "Uraian": "Musyawarah Rencana Pembangunan (Musrenbang) Kabupaten",
+            "Aktif": "1 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "B.3",
+            "Uraian": "Rancangan Dokumen Pelaksanaan Anggaran (RDPA) SKPD yang telah disetujui Sekretaris Daerah",
+            "Aktif": "1 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "B.4",
+            "Uraian": "Dokumen Pelaksanaan Anggaran (DPA) SKPD yang telah disahkan oleh Pejabat Pengelola Keuangan Daerah (PPKD)",
+            "Aktif": "1 tahun setelah tahun anggaran berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C",
+            "Uraian": "PELAKSANAAN ANGGARAN",
+            "Aktif": "2 tahun setelah Perda tentang pertanggung jawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.1",
+            "Uraian": "Keputusan/Penetapan Kepala Daerah Menyangkut Pelaksanaan, Penatausahaan, dan pertanggungjawaban Anggaran",
+            "Aktif": "2 tahun setelah diperbaharui",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.2",
+            "Uraian": "Surat Penyedia Dana (SPP, SPM dan SP2D): UP, GU, TU, LS",
+            "Aktif": "2 tahun setelah Perda tentang pertanggung jawaban APBD disahkan dan tindaklanjut hasil pemeriksaan telah selesai",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3",
+            "Uraian": "Pendapatan",
+            "Aktif": "2 tahun setelah Perda tentang pertanggung jawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A",
+            "Uraian": "DokumenPendapatan Asli Daerah",
+            "Aktif": "2 tahun setelah Perda tentang pertanggung jawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.1",
+            "Uraian": "Surat Ketetapan Pajak Daerah",
+            "Aktif": "2 tahun setelah Perda tentang pertanggung jawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.2",
+            "Uraian": "Surat Setoran Pajak (SSP) Daerah, antara lain",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.2.a",
+            "Uraian": "Pajak hotel",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.2.b",
+            "Uraian": "Pajak restoran",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.2.c",
+            "Uraian": "Pajak Hiburan",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.2.d",
+            "Uraian": "Pajak Reklame",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.2.e",
+            "Uraian": "Pajak penerangan Jalan",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.2.f",
+            "Uraian": "Pajak Mineral bukan logam bantuan",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.2.g",
+            "Uraian": "Pajak parkir",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.2.h",
+            "Uraian": "Pajak air tanah",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.2.i",
+            "Uraian": "Pajak sarang burung walet",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.2.j",
+            "Uraian": "PBB sektor perdesaan dan perkotaan",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.2.k",
+            "Uraian": "Bea perolehan hak atas tanah dan atau bangunan (BPHTB)",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.3",
+            "Uraian": "Surat Ketetapan Retribusi Daerah",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4",
+            "Uraian": "Bukti Penarikan Retribusi, antara lain:",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Munah"
+        },
+        {
+            "Kode": "C.3.A.4.A",
+            "Uraian": "Retribusi Jasa Umum",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Munah"
+        },
+        {
+            "Kode": "C.3.A.4.A.1",
+            "Uraian": "Retribusi Pelayanan Kesehatan",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Munah"
+        },
+        {
+            "Kode": "C.3.A.4.A.2",
+            "Uraian": "Retribusi Pelayanan Persampahan/Kebersihan",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Munah"
+        },
+        {
+            "Kode": "C.3.A.4.A.3",
+            "Uraian": "Retribusi Penggantian Biaya Cetak KTP dan Akte Catatan Sipil",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Munah"
+        },
+        {
+            "Kode": "C.3.A.4.A.4",
+            "Uraian": "Retribusi Pelayanan Pemakaman dan Pengabuan Mayat",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Munah"
+        },
+        {
+            "Kode": "C.3.A.4.A.5",
+            "Uraian": "Retribusi Pelayanan Parkir di Tepi Jalan Umum",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Munah"
+        },
+        {
+            "Kode": "C.3.A.4.A.6",
+            "Uraian": "Retribusi Pelayanan Pasar",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Munah"
+        },
+        {
+            "Kode": "C.3.A.4.A.7",
+            "Uraian": "Retribusi Pengujian Kendaraan Bermotor",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Munah"
+        },
+        {
+            "Kode": "C.3.A.4.A.8",
+            "Uraian": "Retribusi Pemeriksaan Alat Pemadam Kebakaran",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Munah"
+        },
+        {
+            "Kode": "C.3.A.4.A.9",
+            "Uraian": "Retribusi Penggantian Biaya Cetak Peta",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Munah"
+        },
+        {
+            "Kode": "C.3.A.4.A.10",
+            "Uraian": "Retribusi Pengujian Kapal Perikanan",
+            "Aktif": "2 tahun setelah Perda tentang pertanggung jawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Munah"
+        },
+        {
+            "Kode": "C.3.A.4.B",
+            "Uraian": "Retribusi Jasa Usaha",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.B.1",
+            "Uraian": "Retribusi Pemakaian Kekayaan Daerah",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.B.2",
+            "Uraian": "Retribusi Pasar Grosir dan/atau Pertokoan",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.B.3",
+            "Uraian": "Retribusi Tempat Pelelangan",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.B.4",
+            "Uraian": "Retribusi Terminal",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.B.5",
+            "Uraian": "Retribusi Tempat Khusus Parkir",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.B.6",
+            "Uraian": "Retribusi Tempat Penginapan/Pesanggrahan/Villa",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.B.7",
+            "Uraian": "Retribusi Penyedotan Kakus",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.B.8",
+            "Uraian": "Retribusi Rumah Potong Hewan",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.B.9",
+            "Uraian": "Retribusi Pelayanan Pelabuhan Kapal",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.B.10",
+            "Uraian": "Retribusi Tempat Rekreasi dan Olah Raga",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.B.11",
+            "Uraian": "Retribusi Penyebrangan di Atas Air",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.B.12",
+            "Uraian": "Retribusi Pengolahan Limbah Cair",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.B.13",
+            "Uraian": "Retribusi Penjualan Produksi Usaha Daerah",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.C",
+            "Uraian": "Retribusi Perizinan Tertentu",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.C.1",
+            "Uraian": "Retribusi Izin Mendirikan Bangunan",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.C.2",
+            "Uraian": "Retribusi Izin Tempat Penjualan Minuman Beralkohol",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.C.3",
+            "Uraian": "Retribusi Izin Gangguan",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.C.4",
+            "Uraian": "Retribusi Izin Trayek",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.D",
+            "Uraian": "Retribusi Pengendalian Lalu Lintas",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.4.E",
+            "Uraian": "Retribusi Perpanjangan Izin Mempekerjakan Tenaga Kerja Asing (IMTA)",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.5",
+            "Uraian": "Bukti Penerimaan Jasa Layanan kesehatan Masyarakat",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.6",
+            "Uraian": "Dokumen Rasionalitas Hasil Pengelolaan Kekayaan Daerah",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.3.A.7",
+            "Uraian": "Bukti Penerimaan SKPD dari Badan Layanan Umum",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.8",
+            "Uraian": "Bukti Penerimaan Hasil Pengelolaan Dana Bergulir",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.A.9",
+            "Uraian": "Bukti Penerimaan Bunga dan atau Jasa Giro pada Bank",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.B",
+            "Uraian": "Dokumen Penerimaan Dana Perimbangan",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.B.1",
+            "Uraian": "Dana Bagi Hasil yang Bersumber dari Pajak dan Bukan Pajak",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.B.2",
+            "Uraian": "Dana Bagi Hasil untuk Kabupaten",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.B.3",
+            "Uraian": "Dana Alokasi Umum (DAU)",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.B.4",
+            "Uraian": "Dana perimbangan untuk Daerah yang tidak Menerima DAU",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.B.5",
+            "Uraian": "Dana Alokasi Khusus (DAK)",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.C",
+            "Uraian": "Dokumen Penerimaan Lain-lain Pendapatan yang Sah",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.C.1",
+            "Uraian": "Alokasi Dana Penyesuaian",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.C.2",
+            "Uraian": "Dana Otonomi Khusus (Dana Keistimewaan)",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.C.3",
+            "Uraian": "Dana Bantuan Operasional Sekolah",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.C.4",
+            "Uraian": "Dana Bagi Hasil Pajak dari  Pemerintah Provinsi",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.C.5",
+            "Uraian": "Penerimaan Hibah Yang Bersumber dari APBN, Pemerintah Daerah lainnya  atau Sumbangan Pihak Ketiga",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.D",
+            "Uraian": "Surat Setoran Bukan Pajak (SSBP)",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.E",
+            "Uraian": "Penerimaan Sisa Lebih Perhitungan Anggaran (SiLPA)",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.3.F",
+            "Uraian": "Dokumen Pengelolaan Barang Milik Negara/Daerah",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.3.G",
+            "Uraian": "Dokumen Piutang Daerah",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.3.H",
+            "Uraian": "Dokumen Pengelolaan Investasi",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.4",
+            "Uraian": "Belanja",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.4.A",
+            "Uraian": "Dokumen Belanja langsung",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.4.A.1",
+            "Uraian": "Belanja Pegawai",
+            "Aktif": "2 tahun setelah Perda tentang pertanggung jawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.4.A.2",
+            "Uraian": "Belanja Barang Jasa",
+            "Aktif": "2 tahun setelah Perda tentang pertanggung jawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.4.A.3",
+            "Uraian": "Belanja Modal",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.4.B",
+            "Uraian": "Dokumen Belanja tidak langsung",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.4.B.1",
+            "Uraian": "Pegawai",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.4.B.2",
+            "Uraian": "Hibah",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.4.B.3",
+            "Uraian": "Belanja Bagi Hasil",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.4.B.4",
+            "Uraian": "Subsidi",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.4.B.5",
+            "Uraian": "Bunga",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.4.B.6",
+            "Uraian": "Bantuan Sosial",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.4.B.7",
+            "Uraian": "Bantuan Keuangan",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.4.B.8",
+            "Uraian": "Belanja tidak terduga",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.5",
+            "Uraian": "Pembiayaan Daerah",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.5.A",
+            "Uraian": "Bukti Penerimaan Pembiayaan",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.5.A.1",
+            "Uraian": "SiLPA",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.5.A.2",
+            "Uraian": "Dana Cadangan",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.5.A.3",
+            "Uraian": "Dana Bergulir",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.5.A.4",
+            "Uraian": "Pinjaman Daerah",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.5.A.5",
+            "Uraian": "Pengalihan Piutang PBBP2 menjadi PAD",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.5.B",
+            "Uraian": "Bukti Pengeluaran Pembiayaan",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.5.B.1",
+            "Uraian": "Investasi Jangka Panjang Dalam Bentuk Dana Bergulir",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.5.B.2",
+            "Uraian": "Penyertaan Modal pada BUMD",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.5.B.3",
+            "Uraian": "Penambahan Penyertaan Modal pada BUMD",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.5.B.4",
+            "Uraian": "Pengeluaran dari Dana Cadangan",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.5.B.5",
+            "Uraian": "Pembiayaan Bagi Usaha Masyarakat Kecil dan Menengah (UMKM)",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.5.B.6",
+            "Uraian": "Penyertaan Modal kepada Bank Perkreditan Rakyat (BPR) Milik Pemda",
+            "Aktif": "Selama barang dimiliki",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.6",
+            "Uraian": "Dokumen Penatausahaan Keuangan",
+            "Aktif": "Selama piutang belum tertagih",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah kecuali pengadaan Tanah dan Aset tetap Lainnya Permanen"
+        },
+        {
+            "Kode": "C.6.A",
+            "Uraian": "Surat Penyediaan Dana (SPD)",
+            "Aktif": "Selama investasi masih",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah kecuali pengadaan Tanah dan Aset tetap Lainnya Permanen"
+        },
+        {
+            "Kode": "C.6.B",
+            "Uraian": "Surat Permohonan Pembayaran (SPP)",
+            "Aktif": "ada",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah kecuali pengadaan Tanah dan Aset tetap Lainnya Permanen"
+        },
+        {
+            "Kode": "C.6.C",
+            "Uraian": "Surat Perintah Membayar (SPM)",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah kecuali pengadaan Tanah dan Aset tetap Lainnya Permanen"
+        },
+        {
+            "Kode": "C.6.D",
+            "Uraian": "Surat Perintah Pencairan Dana (SP2D)",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah kecuali pengadaan Tanah dan Aset tetap Lainnya Permanen"
+        },
+        {
+            "Kode": "C.7",
+            "Uraian": "Pertanggungjawaban Penggunaan Dana",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.7.a",
+            "Uraian": "uku Kas Umum (BKU)",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.7.b",
+            "Uraian": "Buku Kas Pembantu (BKP)",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.7.c",
+            "Uraian": "Ringkasan Perincian Pengeluaran Objek",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.7.d",
+            "Uraian": "Rekening Koran Bank",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.7.e",
+            "Uraian": "Pertanggungjawaban Fungsional dan Administrasi",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.7.f",
+            "Uraian": "Bukti Penyetoran Pajak",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.7.g",
+            "Uraian": "Register Penutupan Kas",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.7.h",
+            "Uraian": "Berita Acara Pemeriksaan",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.7.i",
+            "Uraian": "Laporan Realisasi Anggaran (LRA), Neraca, Catatan atas Laporan",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.7.j",
+            "Uraian": "Keuangan (CaLK), Termasuk Arsip Data Komputer (ADK)",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.7.k",
+            "Uraian": "Laporan Pendapatan Negara",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.7.l",
+            "Uraian": "Laporan Keadaan Kredit Anggaran (LKKA) Bulanan/Tiwulan/Semesteran",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.8",
+            "Uraian": "Daftar Gaji",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.9",
+            "Uraian": "Kartu Gaji",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.10",
+            "Uraian": "Data Rekening Bendahara Umum Daerah (BUD)",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "C.11",
+            "Uraian": "Laporan Keuangan Tahunan terdiri dari ",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.11.a",
+            "Uraian": "Laporan Realisasi Anggaran (LRA)",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.11.b",
+            "Uraian": "Laporan Perubahan Anggaran",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.11.c",
+            "Uraian": "Neraca",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.11.d",
+            "Uraian": "Laporan Operasional",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.11.e",
+            "Uraian": "Laporan Arus KAS",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.11.f",
+            "Uraian": "Laporan Perubahan Ekuitas",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "C.11.g",
+            "Uraian": "Catatan atas Laporan Keuangan (CaLK)",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "D",
+            "Uraian": "BANTUAN/PINJAMAN LUAR NEGERI",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "D.1",
+            "Uraian": "Permohonan Pinjaman Luar Negeri (Blue Book)",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "D.2",
+            "Uraian": "Dokumen Kesanggupan Negara Donor untuk Membiayai (Green Book )",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "D.3",
+            "Uraian": "Dokumen Memorandum of Understanding (MoU), dan Dokumen Sejenisnya",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "D.4",
+            "Uraian": "Dokumen Loan Agreement (PHLN) seperti : Draft Agreement, Legal Opinion , Surat Menyurat dengan Lender",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "D.5",
+            "Uraian": "Alokasi dan Relokasi Penggunaan Dana Luar Negeri, a.l. : Usulan Luncuran Dana",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.6",
+            "Uraian": "Aplikasi Penarikan Dana BLN berikut Lampirannya",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.6.a",
+            "Uraian": "Reimbursement",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.6.b",
+            "Uraian": "Direct Payment/Transfer Procedure",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.6.c",
+            "Uraian": "Special Commitment/ L/C Opening",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.6.d",
+            "Uraian": "Special Account/Imprest Fund",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.7",
+            "Uraian": "Dokumen Otorisasi Penarikan Dana (Payment Advice)",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.8",
+            "Uraian": "Dokumen Realisasi Pencairan Dana Bantuan Luar Negeri, yaitu : Surat Perintah Pencairan Dana, SPM beserta lampirannya, a.l. : SPP, Kontrak, BA, dan Data Pendukung lainnya.",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.9",
+            "Uraian": "Replenishment (permintaan penarikan dana dari negara donor) meliputi antara lain : No Objection Letter (NOL), Project Implementation, Notification of Contract, Withdrawal Authorization (WA), Statement of Expenditure (SE)",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.10",
+            "Uraian": "Staff Appraisal Report",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.11",
+            "Uraian": "Report /Laporan yang terdiri dari",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.11.a",
+            "Uraian": "Progress Report",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.11.b",
+            "Uraian": "Monthly Report",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.11.c",
+            "Uraian": "Quarterly Report",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.12",
+            "Uraian": "Laporan Hutang Daerah ",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.12.a",
+            "Uraian": "Laporan Pembayaran Hutang Daerah",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.12.b",
+            "Uraian": "Laporan Posisi Hutang Daerah",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "D.13",
+            "Uraian": "Completion Report/Annual Report",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "D.14",
+            "Uraian": "Ketentuan/Peraturan yang Menyangkut Bantuan/Pinjaman Luar Negeri",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "E",
+            "Uraian": "PENGELOLAAN APBD/DANA PINJAMAN/HIBAH LUAR NEGERI (PHLN)",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "E.1",
+            "Uraian": "Keputusan Kepala Daerah  tentang Penetapan (termasuk berita acara serah terimajabatan)",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "E.1.a",
+            "Uraian": "Pengguna Anggaran atau Kuasa Pengguna Anggaran",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "E.1.b",
+            "Uraian": "Pejabat Pembuat Komitmen",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "E.1.c",
+            "Uraian": "Kuasa Pengguna Barang/Jasa",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "E.1.d",
+            "Uraian": "Bendahara Umum Daerah dan kuasa Bendahara Umum Daerah",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "E.1.e",
+            "Uraian": "Pejabat Penandatanganan SPM",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "E.1.f",
+            "Uraian": "Bendahara Penerimaan/Pengeluaran",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "E.1.g",
+            "Uraian": "Pengelola Barang",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "E.1.h",
+            "Uraian": "termasuk  berita serah terima jabatan",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "F",
+            "Uraian": "SISTEM AKUNTANSI KEUANGAN DAERAH (SAKD)",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "F.1",
+            "Uraian": "Manual Implementasi Sistem Akuntansi Keuangan Daerah (SAKD)",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "F.2",
+            "Uraian": "Dokumen Kebijakan Akuntansi",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "F.3",
+            "Uraian": "Arsip Data Komputer dan Berita Acara Rekonsiliasi",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "F.4",
+            "Uraian": "Laporan Realisasi Anggaran dan Neraca Bulanan/Triwulanan/Semesteran",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "G",
+            "Uraian": "PENYALURAN ANGGARAN TUGAS PEMBANTUAN",
+            "Aktif": "Selama yang bersangkutan masih jadi pegawai",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "G.1",
+            "Uraian": "Surat Penetapan Pengguna Anggaran/kuasa pengguna anggaran, Bendahara atas Pengguna Anggaran kegiatan Pembantuan, termasuk Specimen Tanda Tangan",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "G.2",
+            "Uraian": "Berkas Permintaan Pembayaran (SPP) dan lampirannya",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "G.2.a",
+            "Uraian": "SPP-LS, SPP-GU, SP3, Daftar Perincian Penggunaan Dana, SPPR-LS, SPDR-L, SPM-LS, SPM-DU, Bilyet Giro, SPM Nihil",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "bG.2.a",
+            "Uraian": "Penagihan/Invoice, Faktur Pajak, Bukti Penerimaan Kas/Bank beserta bukti pendukungnya",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "G.2.c",
+            "Uraian": "Copy Faktur Pajak dan Nota Kredit Bank",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "G.2.d",
+            "Uraian": "Permintaan Pelayanan Jasa/Service Report dan Berita Acara Penyelesaian Pekerjaan",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "G.3",
+            "Uraian": "Buku Rekening Bank",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "G.4",
+            "Uraian": "Keputusan Pembukuan Rekening",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 Tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "G.5",
+            "Uraian": "Pembukuan anggaran terdiri : Buku Kas Umum (BKU), Buku Pembantu, Register dan Buku Tambahan Daftar Pembukuan Pencairan/Pengeluaran (DPP), Daftar Himpunan Pencairan (DHP), dan Rekening Koran",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "H",
+            "Uraian": "PENERIMAAN ANGGARAN TUGAS PEMBANTUAN",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "H.1",
+            "Uraian": "Berkas Penerimaan Keuangan Pelaksanaan dan Tugas Pembantuan TermasukDana Sisa atau Pengeluaran Lainnya",
+            "Aktif": "1 tahun setelah",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "H.2",
+            "Uraian": "Berkas Penerimaan Pajak termasuk PPh 21, PPh 22, PPh 23, dan PPn, danDenda Keterlambatan Menyelesaikan Pekerjaan, dll",
+            "Aktif": "Diterbitkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "I",
+            "Uraian": "PENGELOLAAN  ANGGARAN PILKADA DAN BIAYA BANTUAN PEMILU DARI APBD",
+            "Aktif": "1 tahun setelah",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "I.1",
+            "Uraian": "Dokumen Penyusunan Anggaran Pilkada dan Biaya Bantuan Pemilu dari APBD",
+            "Aktif": "Diterbitkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "I.1.a",
+            "Uraian": "Kebijakan Keuangan Pilkada dan Penyusunan Anggaran Bantuan Pemilu",
+            "Aktif": "1 tahun setelah Loan Agreement Ditandatangani",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "I.1.b",
+            "Uraian": "Peraturan/Pedoman/Standar Belanja Pegawai, Barang dan Jasa, Operasional dan Kontingensi untuk Biaya Pilkada dan Bantuan Pemilu",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "I.1.c",
+            "Uraian": "Bahan Usulan Rencana Kegiatan dan Anggaran (RKA) Pilkada KPUD dan Panwasda Provinsi, PPK, PPS, KPPS dan Permohonan Pengajuan RKA KPUD dan Panwas",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "I.1.d",
+            "Uraian": "Berkas Pembahasan RKA Pilkada dan Bantuan Pemilu",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "I.1.e",
+            "Uraian": "Rencana Anggaran Satuan Kerja (RASK) Pilkada dan Bantuan Pemilu Kabupaten",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "I.1.f",
+            "Uraian": "Dokumen Rancangan Anggaran Satuan Kerja (DRASK) Pilkada KPUD dan Panwas kabupaten dan Bantuan Biaya Pemilu dari APBD",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "I.1.g",
+            "Uraian": "Berkas Pembentukan Dana Cadangan Pilkada",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "I.1.h",
+            "Uraian": "Bahan Rapat Rancangan Peraturan Daerah tentang Pilkada, dan Bantuan Biaya Pemilu dari APBD",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "I.1.i",
+            "Uraian": "Nota Persetujuan DPRD tentang Perda APBD Pilkada dan Bantuan BiayaPemilu dari APBD",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "J",
+            "Uraian": "PELAKSANAAN  ANGGARAN PILKADA DAN ANGGARAN BIAYA BANTUAN PEMILU",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "J.1",
+            "Uraian": "Berkas Penetapan Bendahara dan Atasan Langsung Bendahara KPUD, Bendahara pada Panitia Pilkada dan Pemilu",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "J.2",
+            "Uraian": "Berkas Penerimaan Komisi, Rabat Pembayaran Pengadaan Jasa, Bunga, Pelaksanaan Pilkada/Pemilu",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "J.3",
+            "Uraian": "Berkas Setor Sisa Dana Pilkada/Pemilu termasuk Setor Komisi Pengadaan Barang/Jasa, Rabat, Bunga, Jasa Giro",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "J.4",
+            "Uraian": "Berkas Penyaluran Biaya Pemilu termasuk diantaranya Bukti Transfer Bank",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "J.5",
+            "Uraian": "Pedoman Dokumen Penyediaan Pembiayaan Kegiatan Operasional (PPKO) Pemilu termasuk Perubahan/Pergeseran/Revisinya",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "K",
+            "Uraian": "PELAKSANAAN ANGGARAN OPERASIONAL PEMILU",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "K.1",
+            "Uraian": "Dokumen Penyediaan Pembiayaan Kegiatan Operasional (PPKO) Pemilu dan PPKO Kabupaten termasuk perubahan/pergeseran/revisinya",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "K.2",
+            "Uraian": "Berkas penyaluran biaya pemilu termasuk diantaranya bukti transfer bank",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "K.3",
+            "Uraian": "Berkas Penyaluran Biaya Pemilu ke PPK, PPS dan KPPS termasuk diantaranya Bukti Transfer Bank dan lain-lain",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "8 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "L",
+            "Uraian": "PEMERINTAHAN DESA",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "L.1",
+            "Uraian": "Dokumen Rencana Anggaran Pendapatan dan Belanja Desa",
+            "Aktif": "2 tahun setelah perjanjian pinjaman berakhir",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "L.2",
+            "Uraian": "Program Kerja Pemerintah Desa ",
+            "Aktif": "1 tahun setelah diperbaharui",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "L.2.a",
+            "Uraian": "Rencana Kerja Pembangunan Jangka Menengah Desa",
+            "Aktif": "Selama masih menjabat",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "L.2.b",
+            "Uraian": "Rencana Kerja Perangkat Desa",
+            "Aktif": "Selama masih menjabat",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "L.3",
+            "Uraian": "Dokumen Anggaran Pendapatan dan Belanja Desa",
+            "Aktif": "Selama masih menjabat",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "L.4",
+            "Uraian": "Bukti Pungutan Desa",
+            "Aktif": "Selama masih menjabat",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "L.5",
+            "Uraian": "Dokumen Pembebasan Eks Tanah Kas Desa",
+            "Aktif": "Selama masih menjabat",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "L.5.a",
+            "Uraian": "Peraturan Desa tentang Pembebasan Tanah Kas Desa",
+            "Aktif": "Selama masih menjabat",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "L.5.b",
+            "Uraian": "Pemohonan tentang Pembebasan Tanah Kas Desa",
+            "Aktif": "Selama masih menjabat",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "L.5.c",
+            "Uraian": "Hasil persetujuan/rapat",
+            "Aktif": "Selama masih menjabat",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "L.5.d",
+            "Uraian": "Rekomendasi Bupati tentang persetujuan pembebasan tanah",
+            "Aktif": "Selama masih menjabat",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "L.5.e",
+            "Uraian": "Persetujuan Bupati tentang hasil musyawarah harga tanah kas Desa ",
+            "Aktif": "Selama masih menjabat",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "L.5.f",
+            "Uraian": "Proses Pelepasan Hak Tanah Kas Desa",
+            "Aktif": "Selama masih menjabat",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "L.5.g",
+            "Uraian": "Pembelian Tanah Pengganti",
+            "Aktif": "Selama belum ada",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "L.5.h",
+            "Uraian": "Musyawarah tanah Hak Milik untuk dibeli menjadi pengganti ",
+            "Aktif": "perubahan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "L.5.i",
+            "Uraian": "Rekomendasi Bupati tentang Persetujuan Pembebasan Tanah",
+            "Aktif": "Selama belum ada perubahan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "L.5.j",
+            "Uraian": "\"Pelepasan Tanah Hak Milik menjadi Kas Desa\"\"\"",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "L.6",
+            "Uraian": "Dokumen Perjanjian Sewa Tanah Kas Desa",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "10 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "L.6.a",
+            "Uraian": "Sewa Tanah Kas Desa tidak berubah fungsi",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "10 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "L.6.b",
+            "Uraian": "Sewa Tanah Kas Desa berubah fungsi",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "10 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "L.6.b.1",
+            "Uraian": "Peraturan Desa tentang sewa tanah kas Desa",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "10 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "L.6.b.2",
+            "Uraian": "Penawaran dari Penyewa",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "10 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "L.6.b.3",
+            "Uraian": "Rekomendasi Bupati tentang ijin penyewaan tanah kas Desa",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "10 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "L.6.b.4",
+            "Uraian": "Permohonan Ijin Gubernur",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "10 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "L.6.b.5",
+            "Uraian": "Ijin Gubernur",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "10 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "L.7",
+            "Uraian": "Dokumen Perubahan Peruntukkan Tanah Kas Desa",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "2 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "L.7.a",
+            "Uraian": "Peraturan Desa tentang perubahan peruntukkan Tanah Kas Desa",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "2 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "L.7.b",
+            "Uraian": "Rekomendasi Bupati tentang persetujuan pembebasan tanah",
+            "Aktif": "Selama rekening masih aktif",
+            "Inaktif": "2 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "L.7.c",
+            "Uraian": "Ijin tertulis Gubernur",
+            "Aktif": "Selama rekening masih aktif",
+            "Inaktif": "2 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "L.8",
+            "Uraian": "Surat Kedudukan Keuangan Kepala Desa dan Pamong",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "L.9",
+            "Uraian": "lain-lain Pendapatan asli Kalurahan",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "L.10",
+            "Uraian": "Pembukuan Kas Desa ",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "L.10.a",
+            "Uraian": "Buku Kas Umum",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "L.10.b",
+            "Uraian": "Buku Bantu Pengeluaran",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "L.11",
+            "Uraian": "Bukti Pengeluaran Keuangan Kas Desa",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "L.12",
+            "Uraian": "Laporan Keuangan Kas Desa",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "3 tahun",
+            "Keterangan": "Musnah"
+        },
+        {
+            "Kode": "L.13",
+            "Uraian": "Pertanggungjawaban Kepala Desa (Laporan Keuangan Tahunan Desa)",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "1 tahun",
+            "Keterangan": "Permanen"
+        },
+        {
+            "Kode": "M.",
+            "Uraian": "PEMERIKSAAN/PENGAWASAN KEUANGAN DAERAH",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "M.1",
+            "Uraian": "Laporan Hasil Pemeriksaan Badan Pemeriksa Keuangan Republik Indonesia atas Laporan Keuangan",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "M.2",
+            "Uraian": "Hasil Pengawasan dan Pemeriksaan Internal",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "M.3",
+            "Uraian": "Laporan Aparat Pemeriksa Fungsional:",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "M.3.a",
+            "Uraian": "LHP (Laporan Hasil Pemeriksaan)",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "M.3.b",
+            "Uraian": "MHP (Memorandum Hasil Pemeriksaan)",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "M.3.c",
+            "Uraian": "Tindak Lanjut/ Tanggapan LHP",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "5 tahun",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "M.4",
+            "Uraian": "Dokumen Penyelesaian Keuangan Daerah",
+            "Aktif": "tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "2 tahun setelah hak dan kewajiban habis",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "M.4.a",
+            "Uraian": "Tuntutan Perbendaharaan",
+            "Aktif": "2 tahun setelah Perda tentang pertanggungjawaban APBD disahkan",
+            "Inaktif": "2 tahun setelah hak dan kewajiban habis",
+            "Keterangan": "Dinilai Kembali"
+        },
+        {
+            "Kode": "M.4.b",
+            "Uraian": "Tuntutan Ganti Rugi",
+            "Aktif": "2 tahun setelah Perda",
+            "Inaktif": "2 tahun setelah hak dan kewajiban habis",
+            "Keterangan": "Dinilai Kembali"
+        }
+    ]
+}

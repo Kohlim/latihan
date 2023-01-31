@@ -1,0 +1,1556 @@
+﻿[
+    {
+        "Kode": "A",
+        "Uraian": "KEBIJAKAN DI BIDANG MANAJEMEN KEPEGAWAIAN",
+        "Aktif": "2 tahun setelah ditetapkan peraturan baru",
+        "Inaktif": "3 tahun",
+        "Keterangan": "Permanen"
+    },
+    {
+        "Kode": "A.1",
+        "Uraian": "Pengkajian, Pengusulan Kebijakan, dan Naskah Akademik",
+        "Aktif": "2 tahun setelah ditetapkan peraturan baru",
+        "Inaktif": "3 tahun",
+        "Keterangan": "Permanen"
+    },
+    {
+        "Kode": "A.2",
+        "Uraian": "Penyusunan Kebijakan",
+        "Aktif": "2 tahun setelah ditetapkan peraturan baru",
+        "Inaktif": "3 tahun",
+        "Keterangan": "Permanen"
+    },
+    {
+        "Kode": "A.3",
+        "Uraian": "Perumusan Kebijakan",
+        "Aktif": "2 tahun setelah ditetapkan peraturan baru",
+        "Inaktif": "3 tahun",
+        "Keterangan": "Permanen"
+    },
+    {
+        "Kode": "A.4",
+        "Uraian": "Pemberian masukan dan dukungan",
+        "Aktif": "2 tahun setelah ditetapkan peraturan baru",
+        "Inaktif": "3 tahun",
+        "Keterangan": "Permanen"
+    },
+    {
+        "Kode": "A.5",
+        "Uraian": "5Penetapan Kebijakan",
+        "Aktif": "2 tahun setelah ditetapkan peraturan baru",
+        "Inaktif": "3 tahun",
+        "Keterangan": "Permanen"
+    },
+    {
+        "Kode": "A.6",
+        "Uraian": "Memorandum of Understanding (MoU)",
+        "Aktif": "2 tahun setelah ditetapkan peraturan baru",
+        "Inaktif": "3 tahun",
+        "Keterangan": "Permanen"
+    },
+    {
+        "Kode": "B",
+        "Uraian": "PENYUSUNAN DAN PENETAPAN KEBUTUHAN APARATUR SIPIL NEGARA",
+        "Aktif": "",
+        "Inaktif": "",
+        "Keterangan": ""
+    },
+    {
+        "Kode": "B.1",
+        "Uraian": "Perencanaan Kebutuhan Aparatur Sipil Negara (ASN)",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "B.1.a",
+        "Uraian": "Bahan penyusunan rencana kebutuhan ",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "B.1.b",
+        "Uraian": "Analisis Kebutuhan",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "B.1.b.1",
+        "Uraian": "Aparatur Sipil Negara (ASN)",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "B.1.b.2",
+        "Uraian": "Pegawai Pemerintah dengan Perjanjian Kerja (PPPK)",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "B.2",
+        "Uraian": "Perencanaan Pertimbangan Formasi",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "B.2.a",
+        "Uraian": "Pertimbangan teknis penetapan formasi ASN",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "B.2.b",
+        "Uraian": "Analisis Kebutuhan",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "B.3",
+        "Uraian": "Penetapan Kebutuhan Aparatur Sipil Negara",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/ diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "B.4",
+        "Uraian": "Standarisasi Jabatan",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/ diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": ""
+    },
+    {
+        "Kode": "B.4.a",
+        "Uraian": "Informasi Jabatan",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/ diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": ""
+    },
+    {
+        "Kode": "B.4.b",
+        "Uraian": "Kompetensi Jabatan",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/ diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": ""
+    },
+    {
+        "Kode": "B.4.c",
+        "Uraian": "Klasifikasi Jabatan",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/ diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": ""
+    },
+    {
+        "Kode": "C.",
+        "Uraian": "FORMASI DAN PENGADAAN PEGAWAI",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "C.1",
+        "Uraian": "Formasi ASN",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "C.1.a",
+        "Uraian": "Usulan formasi disertai dengan :",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "C.1.a.1",
+        "Uraian": "Analisa jabatan",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "C.1.a.2",
+        "Uraian": "Beban kerja",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "C.1.b",
+        "Uraian": "Usulan Permintaan Formasi kepada Menpan dan RB dan Kepala BKN",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "C.1.c",
+        "Uraian": "Persetujuan Formasi",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "C.1.d",
+        "Uraian": "Penetapan Formasi Umum",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "C.1.e",
+        "Uraian": "Penetapan Formasi Khusus",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "C.2",
+        "Uraian": "Pengadaan ASN",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "C.2.a",
+        "Uraian": "Proses Rekrutmen ASN",
+        "Aktif": "3 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "C.2.b",
+        "Uraian": "Penetapan Pengumuman Kelulusan",
+        "Aktif": "3 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "C.2.c",
+        "Uraian": "Berkas Lamaran yang tidak diterima",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "C.2.d",
+        "Uraian": "Nota Usul Pengangkatan ASN",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "C.2.e",
+        "Uraian": "Open Bidding (Seleksi terbuka jabatan)",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "C.3",
+        "Uraian": "Sistem Rekrutmen ASN",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "C.3.a",
+        "Uraian": "Pengelolaan sistem rekrutmen",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "C.3.a.1",
+        "Uraian": "Standar dan prosedur sistem rekrutmen dan seleksi pegawai",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "C.3.a.2",
+        "Uraian": "Kisi-kisi dan materi soal kompetensi dasar dan kompetensi kepegawaian",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "C.3.a.3",
+        "Uraian": "Evaluasi dan analisa kelayakan materi dasar",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "C.3.b",
+        "Uraian": "Fasilitasi Penyelenggaraan Seleksi",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "C.3.b.1",
+        "Uraian": "Pelayanan teknis dan administrasi seleksi kompetensi dasar dan kompetensi kepegawaian",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "C.3.b.2",
+        "Uraian": "Penyelenggaraan dan pengolahan seleksi",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "C.3.b.3",
+        "Uraian": "Sertifikasi dan Pelaporan",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "C.3.b.3.a",
+        "Uraian": "Penyiapan dan pengelolaan sertifiakt kelulusan",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "C.3.b.3.b",
+        "Uraian": "Pengelolaan Laporan dan evaluasi seleksi",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "D",
+        "Uraian": "MUTASI PEGAWAI",
+        "Aktif": "",
+        "Inaktif": "",
+        "Keterangan": ""
+    },
+    {
+        "Kode": "D.1",
+        "Uraian": "Usulan Alih Status, Pindah Instansi, Pindah Wilayah Kerja, Diperbantukan, Dipekerjakan, Penugasan Sementara, Mutasi antar Perwakilan, Mutasi ke dan dari Perwakilan, Pemindahan Sementara, Persetujuan/Pertimbangan Kepala BKN",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "D.2",
+        "Uraian": "Usulan Kenaikan pangkat/golongan/jabatan",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "D.3",
+        "Uraian": "Usulan Pengangkatan dan pemberhentian dalam jabatan struktural/fungsional",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "D.4",
+        "Uraian": "Penetapan perubahan data dasar/status/kedudukan hukum pegawai",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "D.5",
+        "Uraian": "Usulan Peninjauan Masa Kerja",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "D.6",
+        "Uraian": "Berkas Badan Pertimbangan Jabatan dan Pangkat",
+        "Aktif": "2 tahun sejak kegiatan dipertanggungjawabkan/diaudit",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah kecuali"
+    },
+    {
+        "Kode": "E.",
+        "Uraian": "PENGEMBANGAN KARIR",
+        "Aktif": "1 tahun sejak selesainya pertanggungjawaban sautu tugas",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "E.1",
+        "Uraian": "Usulan Tugas Belajar/Izin Belajar/Diklat/Kursus/Magang/Ujian Dinas/Praktek Kerja di Instansi lain/Pertukaran antar ASN dengan pegawai swasta",
+        "Aktif": "1 tahun sejak selesainya pertanggungjawaban sautu tugas",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "E.1.a",
+        "Uraian": "Perencanaan dan penyusunan analisis kebutuhan",
+        "Aktif": "1 tahun sejak selesainya pertanggungjawaban sautu tugas",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "E.1.b",
+        "Uraian": "Pelaksanaan",
+        "Aktif": "1 tahun sejak selesainya pertanggungjawaban sautu tugas",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "E.1.c",
+        "Uraian": "Pelaporan",
+        "Aktif": "1 tahun sejak selesainya pertanggungjawaban sautu tugas",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "E.1.d",
+        "Uraian": "Ijazah/Surat Tanda Tamat Pendidikan dan Pelatihan (STTPL)/Sertifikat/Surat Rekomendasi",
+        "Aktif": "",
+        "Inaktif": "",
+        "Keterangan": ""
+    },
+    {
+        "Kode": "E.2",
+        "Uraian": "Usulan Penyesuaian ijazah",
+        "Aktif": "1 tahun sejak data diperbarui",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "E.3",
+        "Uraian": "Penyusunan sistem karir",
+        "Aktif": "2 tahun sejak penetapan keputusan abru",
+        "Inaktif": "3 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "E.4",
+        "Uraian": "Standar Kinerja Pegawai (SKP) dan penilaian prestasi",
+        "Aktif": "1 tahun",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "E.5",
+        "Uraian": "Angka Kredit",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjawabkan",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "E.5.a",
+        "Uraian": "Pengajuan Daftar Usul Penetapan Angka Kredit",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjawabkan",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "E.5.b",
+        "Uraian": "Penilaian Daftar Usul Penetapan Angka Kredit",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjawabkan",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "F",
+        "Uraian": "KINERJA APARATUR SIPIL NEGARA",
+        "Aktif": "3 tahun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "F.1",
+        "Uraian": "Hasil penilaian kinerja dan standar kerja",
+        "Aktif": "3 tahun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "F.1.a",
+        "Uraian": "Sistem penilaian kinerja ASN",
+        "Aktif": "3 tahun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "F.1.b",
+        "Uraian": "Standar kinerja jabatan pegawai ASN",
+        "Aktif": "3 tahun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "F.1.c",
+        "Uraian": "Penilaian kinerja pegawai ASN",
+        "Aktif": "3 tahun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "F.2",
+        "Uraian": "Pengelolaan database dan analisis sistem informasi kinerja pegawai ASN",
+        "Aktif": "3 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "2 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "F.2.a",
+        "Uraian": "Pengelolaan database penilaian kinerja pegawai ASN",
+        "Aktif": "3 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "2 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "F.2.b",
+        "Uraian": "Analisis sistem informasi kinerja pegawai ASN",
+        "Aktif": "3 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "2 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "F.2.c",
+        "Uraian": "Teknis penilaian kinerja ASN",
+        "Aktif": "3 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "2 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "F.3",
+        "Uraian": "Hasil evaluasi dan pemantauan penilaian kinerja dan standar kinerja jabatan pegawai ASN",
+        "Aktif": "3 tahun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "G",
+        "Uraian": "KODE ETIK, DISIPLIN, PEMBERHENTIAN DAN PENSIUN ASN",
+        "Aktif": "",
+        "Inaktif": "",
+        "Keterangan": ""
+    },
+    {
+        "Kode": "G.1",
+        "Uraian": "Kode Etik Pegawai",
+        "Aktif": "3 tahun sejak penetapan keputusan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "G.2",
+        "Uraian": "Disiplin",
+        "Aktif": "3 tahun sejak penetapan keputusan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "G.2.a",
+        "Uraian": "Penegakan Disiplin",
+        "Aktif": "3 tahun sejak penetapan keputusan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "G.2.b",
+        "Uraian": "Peningkatan Disiplin",
+        "Aktif": "3 tahun sejak penetapan keputusan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "G.3",
+        "Uraian": "Pemberhentian/pemutusan hubungan perjanjian kerja",
+        "Aktif": "3 tahun sejak penetapan keputusan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "G.3.a.",
+        "Uraian": "Pemberhentian dengan hormat",
+        "Aktif": "3 tahun sejak penetapan keputusan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "G.3.b",
+        "Uraian": "Pemberhentian tidak dengan hormat",
+        "Aktif": "3 tahun sejak penetapan keputusan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "G.3.c",
+        "Uraian": "Pemberhentian Sementara",
+        "Aktif": "3 tahun sejak penetapan keputusan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "G.4",
+        "Uraian": "Pensiun",
+        "Aktif": "1 tahun sejak hak dan kewajiban habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "G.4.a",
+        "Uraian": "Administrasi Pensiun PNS dan Pejabat Negara",
+        "Aktif": "1 tahun sejak hak dan kewajiban habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "G.4.a.1",
+        "Uraian": "Administrasi pensiun PNS",
+        "Aktif": "1 tahun sejak hak dan kewajiban habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "G.4.a.2",
+        "Uraian": "Perekaman dan pemeliharaan data pensiun",
+        "Aktif": "1 tahun sejak hak dan kewajiban habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "G.4.a.2.a",
+        "Uraian": "Penetapan Pertimbangan teknis pensiun PNS",
+        "Aktif": "1 tahun sejak hak dan kewajiban habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "G.4.a.2.b",
+        "Uraian": "Penetapan Pensiun PNS dan janda/dudanya",
+        "Aktif": "1 tahun sejak hak dan kewajiban habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "G.4.a.2.c",
+        "Uraian": "Pensiun pejabat negara dan janda/dudanya",
+        "Aktif": "1 tahun sejak hak dan kewajiban habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "H",
+        "Uraian": "BANTUAN HUKUM",
+        "Aktif": "3 tahun sejak selesainya pertanggungjawaban suatu penugasan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "H.1",
+        "Uraian": "Pemberian Bantuan Hukum",
+        "Aktif": "3 tahun sejak selesainya pertanggungjawaban suatu penugasan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "H.2",
+        "Uraian": "Bantuan Hukum Pegawai",
+        "Aktif": "3 tahun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "I",
+        "Uraian": "STATUS DAN KEDUDUKAN PEGAWAI",
+        "Aktif": "3 tahun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "I.1",
+        "Uraian": "Pertimbangan status kepegawaian",
+        "Aktif": "3 tahun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "I.1.a",
+        "Uraian": "analisis status kepegawaian",
+        "Aktif": "3 tahun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "I.1.b",
+        "Uraian": "Penyusunan pertimbangan status kepegawaian",
+        "Aktif": "3 tahun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "I.2",
+        "Uraian": "Pertimbangan kedudukan kepegawaian",
+        "Aktif": "3 tahun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "I.2.a",
+        "Uraian": "Analisis kedudukan kepegawaian",
+        "Aktif": "3 tahun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "I.2.b",
+        "Uraian": "Penyusunan pertimbangan status kepegawaian",
+        "Aktif": "3 tahun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "I.3",
+        "Uraian": "Penyelesaian pengelolaan keberatan pegawai",
+        "Aktif": "3 tahun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "I.4",
+        "Uraian": "\"Perselisihan/sengketa kepegawaian\"\"\"",
+        "Aktif": "3 tahun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "J",
+        "Uraian": "SISTEM INFORMASI KEPEGAWAIAN",
+        "Aktif": "3 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "J.1",
+        "Uraian": "Pengolahan data dan Informasi Kepegawaian",
+        "Aktif": "3 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "J.1.a",
+        "Uraian": "Pengolahan data",
+        "Aktif": "3 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "J.1.a.1",
+        "Uraian": "Pengelolaan database kepegawaian ASN",
+        "Aktif": "3 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "J.1.a.2",
+        "Uraian": "Penyelesaian permasalahan data kepegawaian ASN",
+        "Aktif": "3 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "J.1.b",
+        "Uraian": "Informasi Kepegawaian",
+        "Aktif": "3 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "J.1.b.1",
+        "Uraian": "Penyajian informasi dan penyusunan tabel referensi kepegawaian ASN",
+        "Aktif": "3 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "J.1.b.2",
+        "Uraian": "Penyajian informasi dan penyusunan tabel referensi kepegawaian non ASN",
+        "Aktif": "3 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "J.1.b.3",
+        "Uraian": "Pengemangan dan pemanfaatan kartu pegawai elektronik",
+        "Aktif": "3 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "J.2",
+        "Uraian": "Pengembangan sistem informasi kepegawaian",
+        "Aktif": "3 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "J.3",
+        "Uraian": "Pengembangan sistem pengelolaan arsip kepegawaian",
+        "Aktif": "1 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "1 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "J.3.a",
+        "Uraian": "Arsip kepegawaian elektronik",
+        "Aktif": "1 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "1 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "J.3.a.1",
+        "Uraian": "Verifikasi dan distribusi arsip kepegawaian",
+        "Aktif": "1 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "1 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "J.3.a.2",
+        "Uraian": "Perekaman dan arsip kepegawaian",
+        "Aktif": "1 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "1 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "J.3.a.3",
+        "Uraian": "Pengelolaan arsip kepegawaian elektronik",
+        "Aktif": "1 tahun setelah sistem atau data diperbarui",
+        "Inaktif": "1 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "J.3.b",
+        "Uraian": "Arsip Kepegawaian Fisik",
+        "Aktif": "1 tahun",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K",
+        "Uraian": "PENGAWASAN DAN PENGENDALIAN",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.1",
+        "Uraian": "Formasi, pengadaan dan pasca diklat",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.1.a",
+        "Uraian": "Pelaksanaan peraturan perundang-undangan",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.1.b",
+        "Uraian": "Monitoring dan evaluasi",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.1.c",
+        "Uraian": "\"Rekomendasi, evaluasi dan pelaporan\"\"\"",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.2",
+        "Uraian": "Kepangkatan, pengangkatan, dan pemberhentian dalam jabatan",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.2.a",
+        "Uraian": "Pelaksanaan peraturan perundang-undangan",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.2.b",
+        "Uraian": "Monitoring dan evaluasi",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.2.c",
+        "Uraian": "\"Rekomendasi, evaluasi dan pelaporan\"\"\"",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.3",
+        "Uraian": "Gaji dan tunjangan, kesejahteraan dan kinerja",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.3.a",
+        "Uraian": "Pelaksanaan peraturan perundang-undangan",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.3.b",
+        "Uraian": "Monitoring dan evaluasi",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.3.c",
+        "Uraian": "\"Rekomendasi, evaluasi dan pelaporan\"\"\"",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.4",
+        "Uraian": "Kode etik, disiplin, pemberhentian dan pensiun ASN",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.4.a",
+        "Uraian": "Pelaksanaan peraturan perundang-undangan",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.4.b",
+        "Uraian": "Monitoring dan evaluasi",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.4.c",
+        "Uraian": "Rekomendasi, evaluasi dan pelaporan",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.5",
+        "Uraian": "Laporan hasil pengawasan dan pengendalian",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "K.6",
+        "Uraian": "Berkas sanggahan terhadap permasalahan tenaga honorer",
+        "Aktif": "3 tahun sejak kegiatan dipertangungjawabkan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "L",
+        "Uraian": "ADMINISTRASI PEGAWAI",
+        "Aktif": "1 tahun sejak selesainya pertanggungjawaban suatu penugasan",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "L.1",
+        "Uraian": "Surat Perintah Dinas/Tugas",
+        "Aktif": "1 tahun sejak selesainya pertanggungjawaban suatu penugasan",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "L.2",
+        "Uraian": "Cuti sakit, cuti bersalin, cuti tahunan",
+        "Aktif": "1 tahun ",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "L.3",
+        "Uraian": "Cuti alasan penting",
+        "Aktif": "1 tahun ",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "L.4",
+        "Uraian": "Cuti besar dan cuti diluar tanggungan negara",
+        "Aktif": "1 tahun ",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "L.5",
+        "Uraian": "Dokumentasi identitas pegawai",
+        "Aktif": "1 tahun ",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "L.5.a",
+        "Uraian": "Usul penetapan Karpeg/KPE/Karis/Karsu",
+        "Aktif": "1 tahun ",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "L.5.b",
+        "Uraian": "Keanggotaan organisasi profesi/kedinasan",
+        "Aktif": "1 tahun ",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "L.5.c",
+        "Uraian": "Laporan pajak penghasilan pribadi (LP2P)",
+        "Aktif": "1 tahun ",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "L.5.d",
+        "Uraian": "Keterangan penerimaan pembayaran penghasilan pegawai (KP4)",
+        "Aktif": "1 tahun ",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "L.6",
+        "Uraian": "Berkas kepegawaian dan Daftar Urut Kepangkatan (DUK)",
+        "Aktif": "1 tahun sejak hak dan kewajibannya habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "L.7",
+        "Uraian": "Berkas pengurusan kenaikan gaji berkala, mutasi gaji/tunjangan",
+        "Aktif": "1 tahun sejak hak dan kewajibannya habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "M",
+        "Uraian": "KESEJAHTERAAN PEGAWAI",
+        "Aktif": "1 tahun sejak hak dan kewajibannya habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "M.1",
+        "Uraian": "Berkas tentang layanan pemeliharaan kesehatan pegawai",
+        "Aktif": "1 tahun sejak hak dan kewajibannya habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "M.2",
+        "Uraian": "Berkas tentang layanan asuransi pegawai/BPJS",
+        "Aktif": "1 tahun sejak hak dan kewajibannya habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "M.3",
+        "Uraian": "Berkas tentang layanan tabungan perumahan",
+        "Aktif": "1 tahun sejak hak dan kewajibannya habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "M.4",
+        "Uraian": "Berkas tentang layanan bantuan sosial",
+        "Aktif": "1 tahun sejak hak dan kewajibannya habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "M.5",
+        "Uraian": "Berkas tentang layanan pakaian dinas",
+        "Aktif": "1 tahun sejak hak dan kewajibannya habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "M.6",
+        "Uraian": "Berkas tentang layanan pegawai yang meninggal karena dinas",
+        "Aktif": "1 tahun sejak hak dan kewajibannya habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "M.7",
+        "Uraian": "Berkas tentang pemberian tali kasih",
+        "Aktif": "1 tahun sejak hak dan kewajibannya habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "M.8",
+        "Uraian": "Berkas tentang pemberian piagam penghargaan dan tanda jasa",
+        "Aktif": "1 tahun sejak hak dan kewajibannya habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "M.9",
+        "Uraian": "Berkas tentang layanan olah raga dan rekreasi",
+        "Aktif": "1 tahun sejak hak dan kewajibannya habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "M.10",
+        "Uraian": "\"Berkas tentang medical record\"\"\"",
+        "Aktif": "1 tahun sejak hak dan kewajibannya habis",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "N",
+        "Uraian": "ADMINISTRASI PERSEORANGAN",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1",
+        "Uraian": "Berkas Perseorangan Aparatur Sipil Negara:",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Berkas Lamaran yang diterima",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Nota Penetapan NIP dan Kelengkapannya",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Nota Persetujuan/Pertimbangan Kepala BKN",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Pengangkatan CASN",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Hasil Pengujian Kesehatan",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Surat tanda Lulus Pelatihan Prajabatan",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Pengangkatan ASN",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Peninjauan Masa Kerja",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Kenaikkan Pangkat",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Surat Pernyataan Melaksanakan Tugas/Menduduki Jabatan dan Surat Pernyataan Pelantikan",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Pengangkatan dalam Jabatan atau Pemberhentian dari Jabatan Struktural/Fungsional",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Perpindahan Wilayah Kerja",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Perpindahan Antar Instansi",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Cuti di luar Tanggungan Negara (CLTN)",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Berita Acara Pemeriksaan",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Hukuman Jabatan/Hukuman Disiplin ASN",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Perbantuan/Dipekerjakan di luar Instansi Induk",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Penarikan Kembali dari Perbantuan/Dipekerjakan",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Pemberian Uang Tunggu",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Pembebasan dari Jabatan Organik karena diangkat sebagai Pejabat",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Pengalihan ASN",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Pemberhentian sebagai ASN",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Pemberhentian Sementara",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Surat Keterangan Pernyataan Hilang",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Surat Keterangan Kembalinya ASN yang dinyatakan hilang",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Penggantian Nama",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Surat perbaikan Tanggal Tahun Kelahiran",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Akta Nikah/Cerai",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Akta Kelahiran",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Isian Formulir PUASN",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Berita Acara Pengambilan Sumpah/Janji ASN dan Jabatan",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Surat Permohonan Menjadi Anggota Parpol",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Surat Keterangan Mutasi Keluarga",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Surat Keterangan Meninggal Dunia/hilang",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Surat Keterangan Peningkatan Pendidikan",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Penetapan Angka Kredit Jabatan Fungsional",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Surat Keterangan Hasil Penelitian Khusus",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "urat Pemberitahuan Kenaikan Gaji Berkala",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Surat Tugas/Izin Belajar Dalam/Luar Negeri",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Surat Izin Bepergian ke Luar Negeri",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Kartu Daftar Ulang (Kardaf) ASN",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Ijazah/Sertifikat",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Penempatan/Penarikan Pegawai",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Pengangkatan pada Jabatan di luar Instansi Induk",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Surat Pertimbangan Status ASN",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Pengaktifan Kembali Sebagai ASN",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "Surat Pernyataan Pengunduran Diri dari Jabatan Organik karena dicalonkan sebagai Kepala/Wakil Kepala Daerah",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.1.a",
+        "Uraian": "SK Pensiun",
+        "Aktif": "5 tahun sejak penetapan pensiun",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah kecuali"
+    },
+    {
+        "Kode": "N.2",
+        "Uraian": "Berkas Perseorangan PPPK",
+        "Aktif": "5 tahun ssetelah berakhirnya perjanjian kerja",
+        "Inaktif": "5 tahun",
+        "Keterangan": "Musnah"
+    },
+    {
+        "Kode": "N.3",
+        "Uraian": "Berkas perseorangan pejabat negara dan pejabat lainnya yang disetarakan",
+        "Aktif": "2 tahun setelah berhenti/pensiun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "N.3.a",
+        "Uraian": "Bupati dan Wakil Bupati",
+        "Aktif": "2 tahun setelah berhenti/pensiun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "N.3.b",
+        "Uraian": "Ketua, Wakil Ketua, dan Anggota DPRD",
+        "Aktif": "2 tahun setelah berhenti/pensiun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "N.3.c",
+        "Uraian": "Ketua, Wakil Ketua, Anggota KPUD, dan Panwaslu",
+        "Aktif": "2 tahun setelah berhenti/pensiun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "N.3.d",
+        "Uraian": "Pejabat negara lainnya yang ditentukan Undang-Undang",
+        "Aktif": "2 tahun setelah berhenti/pensiun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "N.4",
+        "Uraian": "Berkas perseorangan Lurah",
+        "Aktif": "2 tahun setelah berhenti/pensiun",
+        "Inaktif": "2 tahun",
+        "Keterangan": "permanen"
+    },
+    {
+        "Kode": "O",
+        "Uraian": "PENILAIAN KOMPETENSI",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjabankan",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "O.1",
+        "Uraian": "Berkas Penilaian Kompetensi",
+        "Aktif": "1 tahun sejak kegiatan dipertanggungjabankan",
+        "Inaktif": "1 tahun",
+        "Keterangan": "musnah"
+    },
+    {
+        "Kode": "O.2",
+        "Uraian": "Hasil Penilaian Kompetensi",
+        "Aktif": "3 tahun sejak kegiatan dipertanggungjabankan",
+        "Inaktif": "2 tahun",
+        "Keterangan": "musnah"
+    }
+]

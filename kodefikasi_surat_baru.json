@@ -1,0 +1,178 @@
+﻿{
+    "data": [
+        {
+            "Kode": "000",
+            "Keterangan": "UMUM",
+            "Jenis": "",
+            "Urian": ""
+        },
+        {
+            "Kode": "000.1",
+            "Keterangan": null,
+            "Jenis": "KETATAUSAHAAN DAN  KERUMAHTANGGAAN",
+            "Urian": "-"
+        },
+        {
+            "Kode": "000.1.1",
+            "Keterangan": "-",
+            "Jenis": "Telekomunikasi",
+            "Urian": "-"
+        },
+        {
+            "Kode": "000.1.2",
+            "Keterangan": "-",
+            "Jenis": "Perjalanan Dinas Dalam Negeri",
+            "Urian": "-"
+        },
+        {
+            "Kode": "000.1.2.1",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Perjalanan Dinas Kepala Daerah"
+        },
+        {
+            "Kode": "000.1.2.2",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Perjalanan Dinas DPRD"
+        },
+        {
+            "Kode": "000.1.2.3",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Perjalanan Dinas Pegawai"
+        },
+        {
+            "Kode": "000.1.3",
+            "Keterangan": "-",
+            "Jenis": "Perjalanan Dinas Luar Negeri",
+            "Urian": "-"
+        },
+        {
+            "Kode": "000.1.3.1",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Perjalanan Dinas Kepala Daerah"
+        },
+        {
+            "Kode": "000.1.3.2",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Perjalanan Dinas DPRD"
+        },
+        {
+            "Kode": "000.1.3.3",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Perjalanan Dinas Pegawai"
+        },
+        {
+            "Kode": "000.1.4",
+            "Keterangan": "-",
+            "Jenis": "Penggunaan Fasilitas Kantor (antara lain: Permintaan dan Penggunaan Ruang Rapat, Gedung, Kendaraan, Wisma, Rumah Dinas dan Fasilitas Kantor Lainnya)",
+            "Urian": ""
+        },
+        {
+            "Kode": "000.1.5",
+            "Keterangan": "-",
+            "Jenis": "Rapat pimpinan(antara lain: Notula/Risalah Rapat)",
+            "Urian": ""
+        },
+        {
+            "Kode": "000.1.6",
+            "Keterangan": "-",
+            "Jenis": "Penyediaan Konsumsi",
+            "Urian": "-"
+        },
+        {
+            "Kode": "000.1.7",
+            "Keterangan": "-",
+            "Jenis": "Pengurusan Kendaraan Dinas",
+            "Urian": "-"
+        },
+        {
+            "Kode": "000.1.7.1",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Pengurusan surat-surat kendaraan dinas"
+        },
+        {
+            "Kode": "000.1.7.2",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Pemeliharaan dan perbaikan"
+        },
+        {
+            "Kode": "000.1.7.3",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Pengurusan kehilangan dan masalah kendaraan"
+        },
+        {
+            "Kode": "000.1.8",
+            "Keterangan": "-",
+            "Jenis": "Pemeliharaan Gedung, Taman dan Peralatan Kantor",
+            "Urian": ""
+        },
+        {
+            "Kode": "000.1.8.1",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Pertamanan/ Landscape"
+        },
+        {
+            "Kode": "000.1.8.2",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Penghijauan"
+        },
+        {
+            "Kode": "000.1.8.3",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Perbaikan Gedung"
+        },
+        {
+            "Kode": "000.1.8.4",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Perbaikan Peralatan Kantor"
+        },
+        {
+            "Kode": "000.1.8.5",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Perbaikan Rumah Dinas/ Wisma"
+        },
+        {
+            "Kode": "000.1.8.6",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Kebersihan Gedung dan Taman"
+        },
+        {
+            "Kode": "000.1.9",
+            "Keterangan": "-",
+            "Jenis": "Pengelolaan Jaringan Listrik, Air, Telepon dan Komputer",
+            "Urian": ""
+        },
+        {
+            "Kode": "000.1.9.1",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Perbaikan / Pemeliharaan"
+        },
+        {
+            "Kode": "000.1.9.2",
+            "Keterangan": "-",
+            "Jenis": "-",
+            "Urian": "Pemasangan"
+        },
+        {
+            "Kode": "000.1.10",
+            "Keterangan": "Ketertiban dan Keamanan",
+            "Jenis": "",
+            "Urian": "-"
+        }
+    ]
+}
